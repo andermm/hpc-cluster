@@ -9,22 +9,22 @@
       "value": "hpc.local"
     },
     "headNodeVMSize": {
-      "value": "Standard_D4_v2"
+      "value": "Standard_A8"
     },
     "computeNodeImage": {
-      "value": "CentOS_7.3"
+      "value": "Ubuntu_16.04"
     },
     "computeNodeNamePrefix": {
-      "value": "IaaSLnxCN-"
+      "value": "RDMA-"
     },
     "computeNodeNumber": {
       "value": 2
     },
     "computeNodeVMSize": {
-      "value": "Standard_D3_v2"
+      "value": "Standard_A8"
     },
     "adminUsername": {
-      "value": "azureuser"
+      "value": "rdma"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
